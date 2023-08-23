@@ -11,7 +11,7 @@ body,html{
 }
 
 header{
-    background-color: rgb(148, 147, 147);
+    background-color: rgb(247, 196, 230);
 }
 
 header > h1{
@@ -20,7 +20,7 @@ header > h1{
 }
 
 i#burguer{
-    background-color: rgb(48, 48, 48);
+    background-color: rgb(252, 4, 140);
     display: block;
     color: white;
     text-align: center;
@@ -44,13 +44,13 @@ menu > ul > li > a{
     padding: 10px;
     text-decoration: none;
     text-align: center;
-    background-color: rgb(87, 86, 86);
+    background-color: rgb(216, 54, 154);
     color: white;
-    border-top: 2px solid gray;
+    border-top: 2px solid rgb(226, 150, 195);
 }
 
 menu > ul > li > a:hover{
-    background-color: gray;
+    background-color: rgb(138, 76, 112);
 }
 
 main{
